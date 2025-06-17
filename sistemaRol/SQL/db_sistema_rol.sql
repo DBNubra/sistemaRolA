@@ -67,7 +67,6 @@ CREATE TABLE `empleado` (
 
 INSERT INTO `empleado` (`ci_empleado`, `nombre`, `apellido`, `telefono`, `direccion`, `correo`, `id_departamento`) VALUES
 (555455454, 'Huevos', 'w', '21515511010', 'g', 'da@sd.cm', 4),
-(1756185243, 'Galo ', 'Flores ', '0985773446', 'mi casa', 'galo@dg.com', 2),
 (2147483647, 'La', 'Bestia', '5151564541', 'Guasmo', 'asnasc@jsnn.com', 6);
 
 -- --------------------------------------------------------
